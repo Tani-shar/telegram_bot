@@ -3,7 +3,7 @@ import telebot
 
 # Initialize the bot with your token
 TOKEN = "YOUR_BOT_TOKEN"
-bot = telebot.TeleBot("7897904789:AAGdI3uhkuKqZsVHylphtKG64mtJJw3MrxA")
+bot = telebot.TeleBot("TOKEN")
 
 # User preferences for output format (Markdown or HTML)
 user_preferences = {}
